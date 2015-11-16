@@ -1,4 +1,4 @@
-// package main deploys Microservices-Infrastructure to a variety of platforms
+// package main deploys Mantl to a variety of platforms
 // with ease!
 package main
 
