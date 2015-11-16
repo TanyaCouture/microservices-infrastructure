@@ -1,7 +1,7 @@
 OpenStack
 =========
 
-microservices-infrastructure uses Terraform to provision hosts in OpenStack. You
+Mantl uses Terraform to provision hosts in OpenStack. You
 can `download Terraform from terraform.io
 <http://www.terraform.io/downloads.html>`_.
 
@@ -91,7 +91,7 @@ OpenStack Security Group
 ^^^^^^^^^^^^^^^^^^^^^^^^
 
 In order for terraform to apply correctly, you need to create a security group
-in openstack for microservices-infrastructure.
+in openstack for Mantl.
 
 You can either login to the Web UI to perform this task or use the openstack
 commmand line interface as below.
