@@ -1,6 +1,6 @@
 ## MI-Deploy
 
-This tool automates the deployment of Microservices Infrastructure to a variety
+This tool automates the deployment of Mantl to a variety
 of platforms, currently including
  - [x] AWS
  - [x] DigitalOcean
